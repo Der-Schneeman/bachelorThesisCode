@@ -1,0 +1,1 @@
+ffmpeg -i my_mp3_file.mp3 -acodec pcm_u8 -ar 22050 new_wav_file.wav
